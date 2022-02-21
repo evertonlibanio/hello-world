@@ -8,3 +8,4 @@ and projects related to machine learn and Data Scienc
 # Making and committing changes
 Now I am making changes in the hello-world file. Saved changes on gitHub are called commits
 Each commit has a associated message with describe the changes of the file, capturing the history of the project
+
